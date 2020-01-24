@@ -28,4 +28,11 @@ x <- -5
 if(x > 0) print("Non-negative number") else print("Negative number")
 
 #Output: "Negative number"
+#another example of if-else demonstartion
 
+quantity <- 25
+if (quantity>20){
+  print('You sold a lot')
+}else{
+  print('Not Enough for today')
+}
